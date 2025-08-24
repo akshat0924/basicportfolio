@@ -1,20 +1,22 @@
-# 🌐 My Portfolio Website
+# 💼 My Portfolio Website  
 
-This is my personal portfolio website built using **HTML** and **CSS**.  
-It showcases my skills, projects, and contact details in a simple and clean design.  
-
----
-
-## 🚀 Features
-- Responsive design  
-- About Me section  
-- Projects showcase  
-- Contact information  
+Hi there! 👋  
+This is my **personal portfolio website** built using **HTML5** and **CSS3**.  
+It highlights my skills, projects, and ways to connect with me.  
 
 ---
 
-## 🛠️ Technologies Used
+## ✨ Features
+- 🖥️ Responsive and clean design  
+- 📄 About Me section  
+- 💻 Projects showcase  
+- 📬 Contact information  
+
+---
+
+## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**  
 
 ---
+
