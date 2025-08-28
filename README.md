@@ -7,8 +7,8 @@ It highlights my skills, projects, and ways to connect with me.
 ---
 
 ## ✨ Features
-- 🖥️ Responsive and clean design  
-- 📄 About Me section  
+- 🖥️ Responsive and clean design.
+- 📄 About Me section. 
 - 💻 Projects showcase  
 - 📬 Contact information  
 
