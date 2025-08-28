@@ -10,7 +10,7 @@ It highlights my skills, projects, and ways to connect with me.
 - 🖥️ Responsive and clean design.
 - 📄 About Me section. 
 - 💻 Projects showcase.
-- 📬 Contact information  
+- 📬 Contact information.
 
 ---
 
