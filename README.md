@@ -12,10 +12,11 @@ It highlights my skills, projects, and ways to connect with me.
 - 💻 Projects showcase.
 - 📬 Contact information.
 
-
 ---
+
 ## 🛠️ Tech Stack
 - **HTML5**  
-- **CSS3**  
+- **CSS3**
+  
 ---
 
