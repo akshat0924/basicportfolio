@@ -17,6 +17,5 @@ It highlights my skills, projects, and ways to connect with me.
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**
-  
 ---
 
